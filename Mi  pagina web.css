@@ -1,4 +1,68 @@
-body{
-    background-image: url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGhlJTIwZ3ltfGVufDB8fDB8fHww);
-    position: fixed;
+nav{
+background-color: rgb(221, 158, 40);
+height: 700px;
+width: 100%;
+}
+
+nav ul{
+float: left;
+padding: 0px;
+margin-right: 10px;
+}
+nav ul li{
+line-height: 20px;
+margin: 0px 5px;
+display: inline;
+
+}
+nav ul li a{
+float: left;
+color: white;
+font-size: 15px;
+padding: 10px 13px ;
+border-radius: 20px;
+text-decoration: none;
+}
+a:hover{
+background-color: rgb(196, 183, 183);
+transition: 0.3s;
+}
+nav h1{
+margin-top: 300px;
+text-align: left;
+}
+@media (max-width: 2100px) {
+    #el7 {
+        display:none;
+    }
+}
+@media (max-width: 1800px) {
+    #el6 {
+        display:none;
+    }
+}
+@media (max-width: 1500px) {
+    #el5 {
+        display:none;
+    }
+}
+@media (max-width: 1200px) {
+    #el4 {
+        display:none;
+    }
+}
+@media (max-width: 900px) {
+    #el3 {
+        display:none;
+    }
+}
+@media (max-width: 600px) {
+    #el2 {
+        display:none;
+    }
+}
+@media (max-width: 350px) {
+    #el1 {
+        display:none;
+    }
 }
