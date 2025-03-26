@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&effect=neon|outline|emboss|shadow-multiple|fire-animation|neon|3d|anaglyph|emboss");
+
+.proteina {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr; 
+    margin: auto; 
+}
+
+img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 8px; 
+}
+img:hover{
+    scale: 1.1;
+}
