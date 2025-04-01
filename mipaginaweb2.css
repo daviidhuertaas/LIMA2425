@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&effect=neon|outline|emboss|shadow-multiple|fire-animation|neon|3d|anaglyph|emboss");
-body{
-color:black
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: black
 }
 .proteina {
     display: grid;
