@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&effect=neon|outline|emboss|shadow-multiple|fire-animation|neon|3d|anaglyph|emboss");
-
+body{
+color:black
+}
 .proteina {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
