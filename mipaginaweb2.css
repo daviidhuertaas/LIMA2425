@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&effect=neon|outline|emboss|shadow-multiple|fire-animation|neon|3d|anaglyph|emboss");
-
+body {
+    background-image: url('plain-zoom-background-mmzxzeeo406617x4.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+    font-family: Arial, sans-serif; 
+    color: white;
+}
 .proteina {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
